@@ -1,0 +1,3 @@
+echo node_modules/      >> .gitignore
+echo .idea/ .vscode/    >> .gitignore
+echo server-pids.json   >> .gitignore
